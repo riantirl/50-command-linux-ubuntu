@@ -49,12 +49,15 @@ rm dokumen.txt
 cat backup.txt
 <img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_22_04_11" src="https://github.com/user-attachments/assets/a258158f-c340-42a1-9574-c5afddadf9db" />
 
-
 # 13. Membaca file per halaman
 less backup.txt
+<img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_22_13_55" src="https://github.com/user-attachments/assets/b6586bcd-ac33-4172-abea-c6e9e9b6ffdd" />
 
 # 14. Menampilkan 10 baris pertama
 head backup.txt
+<img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_22_15_32" src="https://github.com/user-attachments/assets/96eaf295-c70d-4c18-8196-122f029ca3f3" />
+
+
 
 # 15. Menampilkan 10 baris terakhir
 tail backup.txt
