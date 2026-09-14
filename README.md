@@ -57,28 +57,34 @@ less backup.txt
 head backup.txt
 <img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_22_15_32" src="https://github.com/user-attachments/assets/96eaf295-c70d-4c18-8196-122f029ca3f3" />
 
-
-
 # 15. Menampilkan 10 baris terakhir
 tail backup.txt
+<img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_22_18_56" src="https://github.com/user-attachments/assets/b44ccb57-948c-472c-9a7d-294befb464e5" />
 
 # 16. Mengedit file dengan Nano
 nano backup.txt
+<img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_22_20_43" src="https://github.com/user-attachments/assets/77515c6f-8983-4625-a091-db2e7e03c5df" />
 
 # 17. Membersihkan terminal
 clear
+<img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_22_23_20" src="https://github.com/user-attachments/assets/21509759-d0b2-4d0d-80f7-1a51cde9c631" />
 
 # 18. Melihat riwayat command
 history
+<img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_22_24_25" src="https://github.com/user-attachments/assets/75d43604-7193-4f69-8b84-64e64a5af547" />
 
 # 19. Menampilkan teks
 echo "Halo Linux Ubuntu"
+<img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_22_25_36" src="https://github.com/user-attachments/assets/0faeca27-265a-4d8c-a322-aaca2a509b95" />
 
 # 20. Menampilkan username
 whoami
+<img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_22_26_41" src="https://github.com/user-attachments/assets/ff6fe49a-9e5e-402b-a55e-fb4703027b54" />
 
 # 21. Melihat pengguna yang sedang login
 who
+<img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_22_29_13" src="https://github.com/user-attachments/assets/5ba07573-1d5c-4735-b689-c45b49e7e84f" />
+
 
 # 22. Menampilkan tanggal dan waktu
 date
