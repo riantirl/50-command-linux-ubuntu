@@ -4,39 +4,51 @@
 pwd
 <img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_21_30_05" src="https://github.com/user-attachments/assets/53130203-7e15-4c69-9f50-c0d2dccd1308" />
 
-
 # 2. Melihat isi direktori
 ls
+<img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_21_31_37" src="https://github.com/user-attachments/assets/1f5adbd2-fd7c-4e9c-b19c-21aaddc11e72" />
 
 # 3. Melihat isi direktori secara detail
 ls -l
+<img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_21_31_37" src="https://github.com/user-attachments/assets/27fe382e-178b-4b89-9367-7069c79f167c" />
 
 # 4. Berpindah direktori
 cd Documents
+<img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_21_37_56" src="https://github.com/user-attachments/assets/fb7daad3-0764-4967-9c36-c83fb3824551" />
 
 # 5. Kembali ke direktori sebelumnya
 cd ..
+<img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_21_40_08" src="https://github.com/user-attachments/assets/12402409-3c59-4009-b1e6-ba498690b2ff" />
 
 # 6. Membuat direktori baru
 mkdir tugas
+<img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_21_42_07" src="https://github.com/user-attachments/assets/1b57989d-8ed8-488b-9060-24f1ee3663e8" />
+
 
 # 7. Menghapus direktori kosong
 rmdir tugas
+<img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_21_46_32" src="https://github.com/user-attachments/assets/0a6040df-efc8-4e98-a921-4e32e212126b" />
 
 # 8. Membuat file baru
 touch data.txt
+<img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_21_50_55" src="https://github.com/user-attachments/assets/75d4a47c-1a2d-4b8a-91bc-e6340bdb252a" />
 
 # 9. Menyalin file
 cp data.txt backup.txt
+<img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_21_52_12" src="https://github.com/user-attachments/assets/95c581be-a1af-45a3-bce0-0d03bcba5bac" />
 
 # 10. Memindahkan atau mengganti nama file
 mv data.txt dokumen.txt
+<img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_21_55_49" src="https://github.com/user-attachments/assets/e8d8c8d3-3f49-421f-91a4-188d9d88cdb4" />
 
 # 11. Menghapus file
 rm dokumen.txt
+<img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_22_02_01" src="https://github.com/user-attachments/assets/2d257d54-395f-4946-906b-362d4f2c1ee5" />
 
 # 12. Menampilkan isi file
 cat backup.txt
+<img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_22_04_11" src="https://github.com/user-attachments/assets/a258158f-c340-42a1-9574-c5afddadf9db" />
+
 
 # 13. Membaca file per halaman
 less backup.txt
