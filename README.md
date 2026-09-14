@@ -2,7 +2,8 @@
 
 # 1. Menampilkan lokasi direktori saat ini
 pwd
-<img width="1366" height="768" alt="Screenshot 2026-09-14 211902" src="https://github.com/user-attachments/assets/02934a7d-0d96-44cd-bc25-4b6aeb9ac6a7" />
+<img width="1280" height="800" alt="VirtualBox_ubuntu26_14_09_2026_21_30_05" src="https://github.com/user-attachments/assets/53130203-7e15-4c69-9f50-c0d2dccd1308" />
+
 
 # 2. Melihat isi direktori
 ls
